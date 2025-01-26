@@ -1,6 +1,6 @@
 # Simulation of a Cubic Floating Body Suspended in Viscous Fluid
 
-![Alt Text](cube_resting.jpg)
+<img src="cube_resting.jpg" width="50%">
 
 ## Project Overview
 
@@ -10,11 +10,11 @@ This MATLAB simulation investigates the dynamics of a rigid cubic body interacti
 
 - **Modeling Approach**: Represents the body as a surface-distributed set of point masses
 - **Justification**: Mimics real-world hollow bodies like buoys, where mass is concentrated on the surface
-- **Force Considerations**: 
+- **Newtonian Considerations**: 
   - Contact forces applied only to surface points
   - Gravitational forces evenly distributed
 
-![Alt Text](cube_pts_visual.jpg)
+<img src="cube_resting.jpg" width="50%">
 ## Computational Considerations
 
 The simulation balances approximation accuracy with computational efficiency by varying the number of surface points relative to the body's size and mass.
@@ -24,8 +24,3 @@ The simulation balances approximation accuracy with computational efficiency by 
 - Discrete point mass representation
 - Viscous fluid interaction modeling
 - Dynamic rigid body simulation
-
-## Limitations and Trade-offs
-
-Increasing point density improves simulation precision but increases computational complexity.
-
