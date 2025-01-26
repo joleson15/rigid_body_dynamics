@@ -1,5 +1,7 @@
 # Simulation of a Cubic Floating Body Suspended in Viscous Fluid
 
+![Alt Text](cube_resting.jpg)
+
 ## Project Overview
 
 This MATLAB simulation investigates the dynamics of a rigid cubic body interacting with a viscous fluid, using a discrete point mass approximation method.
@@ -12,6 +14,7 @@ This MATLAB simulation investigates the dynamics of a rigid cubic body interacti
   - Contact forces applied only to surface points
   - Gravitational forces evenly distributed
 
+![Alt Text](cube_pts_visual.jpg)
 ## Computational Considerations
 
 The simulation balances approximation accuracy with computational efficiency by varying the number of surface points relative to the body's size and mass.
