@@ -15,12 +15,8 @@ This MATLAB simulation investigates the dynamics of a rigid cubic body interacti
   - Gravitational forces evenly distributed
 
 <img src="cube_pts_visual.jpg" width="25%">
+
 ## Computational Considerations
 
 The simulation balances approximation accuracy with computational efficiency by varying the number of surface points relative to the body's size and mass.
 
-## Technical Highlights
-
-- Discrete point mass representation
-- Viscous fluid interaction modeling
-- Dynamic rigid body simulation
