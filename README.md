@@ -20,3 +20,4 @@ This MATLAB simulation investigates the dynamics of a rigid cubic body interacti
 
 The simulation balances approximation accuracy with computational efficiency by varying the number of surface points relative to the body's size and mass.
 
+### See [Writeup](Rigid_body_dynamics.pdf) for detailed overview
